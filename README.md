@@ -1,4 +1,4 @@
-# Sales-data-analysis-
+# Sales data analysis
 
 This project focuses on sales analysis and prediction for a retail dataset, where the target
 variable is Item_Outlet_Sales. It employs exploratory data analysis (EDA) to identify trends,
